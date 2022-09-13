@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    font-size: 20px;
+}
+.key{
+    border: solid;
+    padding: 0;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 15px;
+    background-color: rgb(62, 185, 62);
+    color: white;
+}
+.keyCode{
+    border: solid;
+    padding: 0;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 15px;
+    background-color: rgb(255, 71, 71);
+    color: white;
+}
